@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/YashDuhan/TextLens-Frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/YashDuhan/TextLens-Backend
